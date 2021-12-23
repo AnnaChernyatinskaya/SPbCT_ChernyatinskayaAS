@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\Anna\source\repos\EPrst\EPrst\MyForm.h(245,15): warning C4129: i: неизвестная escape-последовательность
+C:\Users\Anna\source\repos\EPrst\EPrst\MyForm.h(288,15): warning C4129: o: неизвестная escape-последовательность
+C:\Users\Anna\source\repos\EPrst\EPrst\MyForm.h(291,74): warning C4129: o: неизвестная escape-последовательность
+C:\Users\Anna\source\repos\EPrst\EPrst\MyForm.h(270,19): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  EPrst.vcxproj -> C:\Users\Anna\source\repos\EPrst\Debug\EPrst.exe
+  Скопировано файлов: 0.

@@ -1,0 +1,4 @@
+C:\Users\Anna\source\repos\EPrst\EPrst\Debug\EPrst.vcxprojAssemblyReference.cache
+C:\Users\Anna\source\repos\EPrst\EPrst\Debug\EPrst.MyForm.resources
+C:\Users\Anna\source\repos\EPrst\EPrst\Debug\EPrst.vcxproj.GenerateResource.cache
+C:\Users\Anna\source\repos\EPrst\EPrst\Debug\EPrst.MyForm1.resources
